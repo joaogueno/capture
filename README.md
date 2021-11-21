@@ -1,2 +1,2 @@
-# capture
+# Capture
 My project begginer
